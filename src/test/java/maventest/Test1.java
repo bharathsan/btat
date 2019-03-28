@@ -8,6 +8,13 @@ public class Test1 {
 	public void login() {
 		
 		System.out.println("login to application");
+
+		System.out.println("login to application1");
+		
+
+		System.out.println("login to application2");
+		
+		
 	}
 	
 	@Test
