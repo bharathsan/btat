@@ -21,6 +21,13 @@ public class Test1 {
 	public void logout() {
 		
 		System.out.println("logout from application");
+		
+		System.out.println("logout to application");
+
+		System.out.println("logout to application1");
+		
+
+		System.out.println("logout to application2");
 	}
 	
 }
