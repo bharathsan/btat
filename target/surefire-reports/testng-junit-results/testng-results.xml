@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="120" started-at="2019-03-16T06:55:37Z" finished-at="2019-03-16T06:55:37Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="120" started-at="2019-03-16T06:55:37Z" finished-at="2019-03-16T06:55:37Z">
+      <class name="maventest.Test3">
+        <test-method status="PASS" signature="instlogout()" name="instlogout" duration-ms="0" started-at="2019-03-16T06:55:37Z" finished-at="2019-03-16T06:55:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- instlogout -->
+        <test-method status="PASS" signature="instalogin()" name="instalogin" duration-ms="0" started-at="2019-03-16T06:55:37Z" finished-at="2019-03-16T06:55:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- instalogin -->
+      </class> <!-- maventest.Test3 -->
+      <class name="maventest.Test1">
+        <test-method status="PASS" signature="logout()" name="logout" duration-ms="72" started-at="2019-03-16T06:55:37Z" finished-at="2019-03-16T06:55:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="login()" name="login" duration-ms="72" started-at="2019-03-16T06:55:37Z" finished-at="2019-03-16T06:55:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- maventest.Test1 -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
